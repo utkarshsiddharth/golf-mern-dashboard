@@ -1,0 +1,44 @@
+{
+  "name": "bogey-sports-dashboard",
+  "version": "1.0.0",
+  "description": "bogey sport RESTful API & Dashborad",
+  "main": "server.js",
+  "dependencies": {
+    "@date-io/date-fns": "^2.10.11",
+    "@material-ui/pickers": "^3.3.10",
+    "bcryptjs": "^2.4.3",
+    "ccavenue": "^1.0.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "emailjs-com": "^2.6.4",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "express-fileupload": "^1.2.1",
+    "express-validator": "^6.10.0",
+    "hhp": "^1.1.1",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0",
+    "node-ccavenue": "^1.0.5",
+    "react-icons": "^4.2.0",
+    "uuid": "^8.3.2",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.2",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server \" \" npm run client \"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "author": "Shubham Kashyap",
+  "license": "MIT",
+  "type": "module"
+}

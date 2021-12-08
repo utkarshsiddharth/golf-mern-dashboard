@@ -1,0 +1,236 @@
+footer {
+  background-color: #000;
+}
+i {
+  color: var(--accent);
+}
+
+.footer_container {
+  padding: 3rem;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer_container > * {
+  flex: 1;
+}
+
+.logo_group {
+  display: flex;
+}
+
+.bogeysportslogo {
+  height: 135px;
+  width: 115px;
+}
+.appstorelogo {
+  height: 40px;
+  width: 130px;
+  border: 1px solid var(--white);
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.playstorelogo {
+  height: 40px;
+  width: 130px;
+  margin-left: 10px;
+}
+
+.footer_links {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem;
+}
+.footer_links h3 {
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 500;
+  color: var(--accent);
+  margin-bottom: 1rem;
+  margin-left: 2rem;
+}
+.link_group {
+  margin-top: 1rem;
+  display: flex;
+  gap: 2rem;
+}
+
+.link_group li {
+  margin-bottom: 1.6em;
+}
+.link_group li a {
+  color: var(--white);
+  font-weight: 700;
+  transition: var(--link-hover);
+}
+.link_group li a:hover {
+  color: var(--accent);
+}
+
+.footer_cta_box h3 {
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 500;
+  color: var(--accent);
+}
+.footer_cta > div {
+  margin-bottom: 1rem;
+}
+.cta_followus {
+  margin-top: 4rem;
+}
+.footer_cta_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cta_mail {
+  margin-top: 1.6rem;
+  font-size: 1rem;
+  font-weight: 300;
+  display: flex;
+}
+.cta_mail i {
+  margin-right: 1rem;
+}
+.cta_mail a {
+  color: var(--white);
+}
+
+.icon_group {
+  margin-top: 1.6rem;
+  align-self: center;
+  display: flex;
+  align-items: center;
+}
+.icon_group i {
+  margin-right: 1.5rem;
+  font-size: 48px;
+}
+
+.footer_bottom {
+  background-color: var(--accent);
+  text-align: center;
+  font-size: 1rem;
+  line-height: 30px;
+  padding: 1rem 0;
+}
+.footer_bottom span {
+  color: #1f83e1;
+}
+
+.footer_row_mobile {
+  display: none;
+}
+.footer_row_mobile a {
+  font-weight: bold;
+  margin-right: 5px;
+  transition: all 0.3s ease all;
+}
+.footer_row_mobile a:hover {
+  text-decoration: underline;
+  text-decoration-color: #1f83e1;
+}
+
+@media only screen and (max-width: 1000px) {
+  .footer_container {
+    padding: 3rem 2rem;
+    grid-template-columns: 2fr 1fr 1fr;
+  }
+  .logo_group {
+    padding-right: 1rem;
+  }
+  .bogeysportslogo {
+    height: 115px;
+    width: 85px;
+  }
+  .appstorelogo {
+    height: 35px;
+    width: 110px;
+  }
+  .playstorelogo {
+    height: 35px;
+    width: 110px;
+    margin-left: -5px;
+    margin-top: 10px;
+  }
+  .cta_mail {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .icon_group i {
+    margin-right: 1.5rem;
+    font-size: 32px;
+  }
+  .link_group {
+    margin-bottom: 1rem;
+    gap: 2rem;
+  }
+  .cta_mail {
+    margin-top: 0.9rem;
+  }
+  .footer_cta_box {
+    margin-top: 1.9rem;
+  }
+  .footer_cta_box h3 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .footer-links {
+    padding: 3rem;
+    background-color: red;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .footer-container {
+    padding: 2rem;
+  }
+  .playstorelogo {
+    margin-top: 0px;
+    margin-left: 1rem;
+  }
+
+  .link_group {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .cta_mail {
+    margin-top: 0.9rem;
+  }
+  .footer_cta_box {
+    margin-top: 1.9rem;
+  }
+  .footer_cta_box h3 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .footer_row_mobile {
+    display: block;
+  }
+  .footer_row {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .footer_links {
+    padding: 0;
+  }
+  .playstorelogo {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .playstorelogo {
+    margin-left: -7px;
+  }
+}

@@ -1,0 +1,94 @@
+.drawer_container {
+  width: 80vw;
+  margin: 2rem 0;
+}
+.logo_group {
+  margin-bottom: 3rem;
+  display: flex;
+  align-items: center;
+}
+.bogeysportslogo {
+  height: 70px;
+  width: 55px;
+}
+.appstorelogo {
+  height: 30px;
+  width: 100px;
+  border: 1px solid var(--white);
+  margin: 0 0.4rem;
+}
+.playstorelogo {
+  height: 30px;
+  width: 100px;
+}
+
+.list_container {
+  width: 75%;
+  margin: 0 auto;
+}
+.list_group {
+  margin: 1rem 0;
+}
+.list_group h3 {
+  font-size: 21px;
+  line-height: 31px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  opacity: 0.9;
+}
+.list_group h3:hover {
+  color: var(--accent);
+}
+.drawer_list {
+  background-color: #343a40;
+  padding: 2rem 1rem;
+  border-radius: 10px;
+}
+.drawer_list li {
+  margin-bottom: 1rem;
+}
+
+.drawer_list a {
+  color: var(--white);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 24px;
+}
+.drawer_list a:hover {
+  color: var(--accent);
+}
+
+.main_links h3 {
+  margin-bottom: 0.7rem;
+  font-size: 21px;
+  line-height: 31px;
+}
+.main_links a {
+  color: var(--white);
+  opacity: 0.9;
+}
+.main_links a:hover {
+  color: var(--accent);
+}
+
+.toggle_btn {
+  all: unset;
+  padding: 0.6rem 1.2rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+.toggle_icon {
+  color: var(--white);
+  font-size: 1.6rem;
+  transition: all 0.2s ease;
+}
+.toggle_icon:hover {
+  color: var(--accent);
+  transform: scale(1.1);
+}
+
+@media only screen and (max-width: 380px) {
+  .logo_group {
+    flex-direction: column;
+  }
+}

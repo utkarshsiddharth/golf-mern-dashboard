@@ -1,0 +1,1033 @@
+[{
+  "_id": {
+    "$oid": "6094fad696a4ba3908dd8a20"
+  },
+  "tournament": "GolfWeek",
+  "rank": 3,
+  "place": "Mohali",
+  "points": 300,
+  "par": {
+    "hole1": "3",
+    "hole2": "4",
+    "hole3": "3",
+    "hole4": "2",
+    "hole5": "3",
+    "hole6": "2",
+    "hole7": "4",
+    "hole8": "5",
+    "hole9": "4",
+    "hole10": "1",
+    "hole11": "3",
+    "hole12": "2",
+    "hole13": "5",
+    "hole14": "4",
+    "hole15": "1",
+    "hole16": "5",
+    "hole17": "3",
+    "hole18": "5"
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": "4",
+      "r1_hole2": "5",
+      "r1_hole3": "2",
+      "r1_hole4": "3",
+      "r1_hole5": "5",
+      "r1_hole6": "4",
+      "r1_hole7": "3",
+      "r1_hole8": "4",
+      "r1_hole9": "5",
+      "r1_hole10": "4",
+      "r1_hole11": "3",
+      "r1_hole12": "2",
+      "r1_hole13": "3",
+      "r1_hole14": "1",
+      "r1_hole15": "1",
+      "r1_hole16": "2",
+      "r1_hole17": "5",
+      "r1_hole18": "4"
+    },
+    "round2": {
+      "r2_hole1": "2",
+      "r2_hole2": "3",
+      "r2_hole3": "4",
+      "r2_hole4": "3",
+      "r2_hole5": "2",
+      "r2_hole6": "3",
+      "r2_hole7": "4",
+      "r2_hole8": "3",
+      "r2_hole9": "4",
+      "r2_hole10": "1",
+      "r2_hole11": "2",
+      "r2_hole12": "1",
+      "r2_hole13": "2",
+      "r2_hole14": "4",
+      "r2_hole15": "3",
+      "r2_hole16": "4",
+      "r2_hole17": "5",
+      "r2_hole18": "4"
+    },
+    "round3": {
+      "r3_hole1": "3",
+      "r3_hole2": "4",
+      "r3_hole3": "5",
+      "r3_hole4": "4",
+      "r3_hole5": "3",
+      "r3_hole6": "2",
+      "r3_hole7": "3",
+      "r3_hole8": "2",
+      "r3_hole9": "4",
+      "r3_hole10": "2",
+      "r3_hole11": "5",
+      "r3_hole12": "2",
+      "r3_hole13": "4",
+      "r3_hole14": "3",
+      "r3_hole15": "1",
+      "r3_hole16": "2",
+      "r3_hole17": "1",
+      "r3_hole18": "3"
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "6094fa2496a4ba3908dd8a1f"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T08:31:18.028Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T12:08:16.824Z"
+  },
+  "__v": 0,
+  "draw": {
+    "time": {
+      "time1": "9:45",
+      "time2": "12:45",
+      "time3": "3:00",
+      "time4": "3:00"
+    },
+    "tee": {
+      "tee1": "|",
+      "tee2": "|",
+      "tee3": "|",
+      "tee4": "|"
+    },
+    "round1": [
+      "Gaurav Gupta",
+      "Vishal Gupta",
+      "Vinod Gupta"
+    ],
+    "round2": [
+      "Gaurav Gupta",
+      "Kamal Gupta",
+      "Sahil"
+    ],
+    "round3": [
+      "Gaurav Gupta",
+      "Karam Gupta",
+      "Utkarsh"
+    ],
+    "round4": [
+      "Gaurav Gupta",
+      "Karam Gupta",
+      "Utkarsh"
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6094fcb896a4ba3908dd8a26"
+  },
+  "tournament": "HookShot",
+  "rank": 2,
+  "place": "Chandigarh",
+  "points": 576,
+  "par": {
+    "hole1": "2",
+    "hole2": "3",
+    "hole3": "2",
+    "hole4": "1",
+    "hole5": "2",
+    "hole6": "3",
+    "hole7": "4",
+    "hole8": "3",
+    "hole9": "2",
+    "hole10": "1",
+    "hole11": "3",
+    "hole12": "2",
+    "hole13": "3",
+    "hole14": "4",
+    "hole15": "3",
+    "hole16": "2",
+    "hole17": "3",
+    "hole18": "4"
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": "3",
+      "r1_hole2": "2",
+      "r1_hole3": "3",
+      "r1_hole4": "4",
+      "r1_hole5": "3",
+      "r1_hole6": "2",
+      "r1_hole7": "3",
+      "r1_hole8": "4",
+      "r1_hole9": "3",
+      "r1_hole10": "2",
+      "r1_hole11": "3",
+      "r1_hole12": "4",
+      "r1_hole13": "3",
+      "r1_hole14": "2",
+      "r1_hole15": "3",
+      "r1_hole16": "4",
+      "r1_hole17": "3",
+      "r1_hole18": "2"
+    },
+    "round2": {
+      "r2_hole1": "3",
+      "r2_hole2": "4",
+      "r2_hole3": "2",
+      "r2_hole4": "2",
+      "r2_hole5": "3",
+      "r2_hole6": "4",
+      "r2_hole7": "3",
+      "r2_hole8": "5",
+      "r2_hole9": "3",
+      "r2_hole10": "4",
+      "r2_hole11": "3",
+      "r2_hole12": "2",
+      "r2_hole13": "3",
+      "r2_hole14": "4",
+      "r2_hole15": "3",
+      "r2_hole16": "2",
+      "r2_hole17": "4",
+      "r2_hole18": "5"
+    },
+    "round3": {
+      "r3_hole1": "4",
+      "r3_hole2": "3",
+      "r3_hole3": "4",
+      "r3_hole4": "3",
+      "r3_hole5": "4",
+      "r3_hole6": "5",
+      "r3_hole7": "4",
+      "r3_hole8": "3",
+      "r3_hole9": "4",
+      "r3_hole10": "5",
+      "r3_hole11": "4",
+      "r3_hole12": "3",
+      "r3_hole13": "4",
+      "r3_hole14": "5",
+      "r3_hole15": "4",
+      "r3_hole16": "3",
+      "r3_hole17": "4",
+      "r3_hole18": "5"
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "6094f9c896a4ba3908dd8a1e"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T08:39:20.112Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-07T08:47:45.042Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6094fd3196a4ba3908dd8a27"
+  },
+  "tournament": "GolfWeek",
+  "rank": 1,
+  "place": "Mohali",
+  "points": 768,
+  "par": {
+    "hole1": "3",
+    "hole2": "4",
+    "hole3": "3",
+    "hole4": "4",
+    "hole5": "5",
+    "hole6": "4",
+    "hole7": "3",
+    "hole8": "4",
+    "hole9": "5",
+    "hole10": "6",
+    "hole11": "5",
+    "hole12": "4",
+    "hole13": "5",
+    "hole14": "4",
+    "hole15": "3",
+    "hole16": "4",
+    "hole17": "5",
+    "hole18": "6"
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": "5",
+      "r1_hole2": "4",
+      "r1_hole3": "3",
+      "r1_hole4": "4",
+      "r1_hole5": "5",
+      "r1_hole6": "4",
+      "r1_hole7": "3",
+      "r1_hole8": "2",
+      "r1_hole9": "3",
+      "r1_hole10": "4",
+      "r1_hole11": "5",
+      "r1_hole12": "4",
+      "r1_hole13": "3",
+      "r1_hole14": "4",
+      "r1_hole15": "5",
+      "r1_hole16": "4",
+      "r1_hole17": "3",
+      "r1_hole18": "2"
+    },
+    "round2": {
+      "r2_hole1": "3",
+      "r2_hole2": "4",
+      "r2_hole3": "5",
+      "r2_hole4": "4",
+      "r2_hole5": "3",
+      "r2_hole6": "4",
+      "r2_hole7": "5",
+      "r2_hole8": "4",
+      "r2_hole9": "3",
+      "r2_hole10": "2",
+      "r2_hole11": "3",
+      "r2_hole12": "4",
+      "r2_hole13": "1",
+      "r2_hole14": "2",
+      "r2_hole15": "1",
+      "r2_hole16": "3",
+      "r2_hole17": "2",
+      "r2_hole18": "1"
+    },
+    "round3": {
+      "r3_hole1": "3",
+      "r3_hole2": "2",
+      "r3_hole3": "3",
+      "r3_hole4": "4",
+      "r3_hole5": "3",
+      "r3_hole6": "2",
+      "r3_hole7": "3",
+      "r3_hole8": "4",
+      "r3_hole9": "5",
+      "r3_hole10": "4",
+      "r3_hole11": "3",
+      "r3_hole12": "2",
+      "r3_hole13": "3",
+      "r3_hole14": "4",
+      "r3_hole15": "5",
+      "r3_hole16": "3",
+      "r3_hole17": "4",
+      "r3_hole18": "3"
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "6094f99996a4ba3908dd8a1d"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T08:41:21.506Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T12:04:40.388Z"
+  },
+  "__v": 0,
+  "draw": {
+    "time": {
+      "time1": "9:30",
+      "time2": "12:30",
+      "time3": "2:45",
+      "time4": "3:45"
+    },
+    "tee": {
+      "tee1": "|",
+      "tee2": "|",
+      "tee3": "|",
+      "tee4": "|"
+    },
+    "round1": [
+      "Karam Gupta",
+      "Vishal Gupta",
+      "Vinod Gupta"
+    ],
+    "round2": [
+      "Karam Gupta",
+      "Kamal Gupta",
+      "Sahil"
+    ],
+    "round3": [
+      "Karam Gupta",
+      "Gurav Gupta",
+      "Utkarsh"
+    ],
+    "round4": [
+      "Karam Gupta",
+      "Gurav Gupta"
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "60950d35bbb3881e183727fa"
+  },
+  "tournament": "GolfWeek",
+  "rank": 7,
+  "points": 158,
+  "place": "Mohali",
+  "par": {
+    "hole1": 1,
+    "hole2": 3,
+    "hole3": 3,
+    "hole4": 6,
+    "hole5": 1,
+    "hole6": 4,
+    "hole7": 4,
+    "hole8": 4,
+    "hole9": 5,
+    "hole10": 4,
+    "hole11": 3,
+    "hole12": 4,
+    "hole13": 2,
+    "hole14": 5,
+    "hole15": 3,
+    "hole16": 4,
+    "hole17": 4,
+    "hole18": 3
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": 1,
+      "r1_hole2": 2,
+      "r1_hole3": 3,
+      "r1_hole4": 6,
+      "r1_hole5": 1,
+      "r1_hole6": 5,
+      "r1_hole7": 4,
+      "r1_hole8": 2,
+      "r1_hole9": 1,
+      "r1_hole10": 3,
+      "r1_hole11": 3,
+      "r1_hole12": 4,
+      "r1_hole13": 5,
+      "r1_hole14": 2,
+      "r1_hole15": 3,
+      "r1_hole16": 4,
+      "r1_hole17": 4,
+      "r1_hole18": 1
+    },
+    "round2": {
+      "r2_hole1": 1,
+      "r2_hole2": 2,
+      "r2_hole3": 3,
+      "r2_hole4": 4,
+      "r2_hole5": 1,
+      "r2_hole6": 5,
+      "r2_hole7": 4,
+      "r2_hole8": 4,
+      "r2_hole9": 1,
+      "r2_hole10": 4,
+      "r2_hole11": 3,
+      "r2_hole12": 5,
+      "r2_hole13": 1,
+      "r2_hole14": 3,
+      "r2_hole15": 3,
+      "r2_hole16": 4,
+      "r2_hole17": 4,
+      "r2_hole18": 1
+    },
+    "round3": {
+      "r3_hole1": 1,
+      "r3_hole2": 2,
+      "r3_hole3": 5,
+      "r3_hole4": 1,
+      "r3_hole5": 6,
+      "r3_hole6": 2,
+      "r3_hole7": 4,
+      "r3_hole8": 2,
+      "r3_hole9": 1,
+      "r3_hole10": 3,
+      "r3_hole11": 5,
+      "r3_hole12": 1,
+      "r3_hole13": 3,
+      "r3_hole14": 1,
+      "r3_hole15": 4,
+      "r3_hole16": 5,
+      "r3_hole17": 2,
+      "r3_hole18": 3
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "6094f9c896a4ba3908dd8a1e"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T09:49:41.469Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T12:03:41.009Z"
+  },
+  "__v": 0,
+  "draw": {
+    "time": {
+      "time1": "9:30",
+      "time2": "12:30",
+      "time3": "2:45",
+      "time4": "3:45"
+    },
+    "tee": {
+      "tee1": "|",
+      "tee2": "|",
+      "tee3": "|",
+      "tee4": "|"
+    },
+    "round1": [
+      "Vinod Gupta",
+      "Vishal Gupta",
+      "Karam Gupta"
+    ],
+    "round2": [
+      "Vinod Gupta",
+      "Kamal Gupta",
+      "Sahil"
+    ],
+    "round3": [
+      "Vinod Gupta",
+      "Gurav Gupta",
+      "Utkarsh"
+    ],
+    "round4": [
+      "Vinod Gupta",
+      "Gurav Gupta"
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "60950e43bbb3881e183727fc"
+  },
+  "tournament": "GolfWeek",
+  "rank": 4,
+  "points": 144,
+  "place": "Mohali",
+  "par": {
+    "hole1": 3,
+    "hole2": 3,
+    "hole3": 3,
+    "hole4": 6,
+    "hole5": 1,
+    "hole6": 2,
+    "hole7": 4,
+    "hole8": 1,
+    "hole9": 5,
+    "hole10": 4,
+    "hole11": 2,
+    "hole12": 4,
+    "hole13": 2,
+    "hole14": 5,
+    "hole15": 3,
+    "hole16": 4,
+    "hole17": 4,
+    "hole18": 3
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": 1,
+      "r1_hole2": 2,
+      "r1_hole3": 3,
+      "r1_hole4": 4,
+      "r1_hole5": 1,
+      "r1_hole6": 5,
+      "r1_hole7": 4,
+      "r1_hole8": 2,
+      "r1_hole9": 1,
+      "r1_hole10": 3,
+      "r1_hole11": 1,
+      "r1_hole12": 4,
+      "r1_hole13": 3,
+      "r1_hole14": 2,
+      "r1_hole15": 5,
+      "r1_hole16": 3,
+      "r1_hole17": 2,
+      "r1_hole18": 1
+    },
+    "round2": {
+      "r2_hole1": 1,
+      "r2_hole2": 2,
+      "r2_hole3": 3,
+      "r2_hole4": 4,
+      "r2_hole5": 1,
+      "r2_hole6": 5,
+      "r2_hole7": 4,
+      "r2_hole8": 4,
+      "r2_hole9": 1,
+      "r2_hole10": 3,
+      "r2_hole11": 4,
+      "r2_hole12": 5,
+      "r2_hole13": 1,
+      "r2_hole14": 2,
+      "r2_hole15": 3,
+      "r2_hole16": 4,
+      "r2_hole17": 2,
+      "r2_hole18": 1
+    },
+    "round3": {
+      "r3_hole1": 1,
+      "r3_hole2": 2,
+      "r3_hole3": 5,
+      "r3_hole4": 1,
+      "r3_hole5": 6,
+      "r3_hole6": 2,
+      "r3_hole7": 4,
+      "r3_hole8": 2,
+      "r3_hole9": 1,
+      "r3_hole10": 3,
+      "r3_hole11": 3,
+      "r3_hole12": 1,
+      "r3_hole13": 3,
+      "r3_hole14": 2,
+      "r3_hole15": 4,
+      "r3_hole16": 2,
+      "r3_hole17": 2,
+      "r3_hole18": 3
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "6094f97f96a4ba3908dd8a1c"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T09:54:11.045Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T11:39:24.529Z"
+  },
+  "__v": 0,
+  "draw": {
+    "time": {
+      "time1": "8:40",
+      "time2": "10:45",
+      "time3": "1:30",
+      "time4": "2:30"
+    },
+    "tee": {
+      "tee1": "|",
+      "tee2": "|",
+      "tee3": "|",
+      "tee4": "|"
+    },
+    "round1": [
+      "Karan Gupta",
+      "Vishal Gupta",
+      "Karam Gupta"
+    ],
+    "round2": [
+      "Karan Gupta",
+      "Kamal Gupta",
+      "Sahil"
+    ],
+    "round3": [
+      "Karan Gupta",
+      "Gurav Gupta",
+      "Utkarsh"
+    ],
+    "round4": [
+      "Karan Gupta",
+      "Vishal Gupta"
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "60965a49f33c042614307a16"
+  },
+  "draw": {
+    "round1": [
+      "Sahil",
+      "Vishal Gupta",
+      "Karam Gupta"
+    ],
+    "round2": [
+      "Sahil",
+      "Gaurav",
+      "Karam Gupta"
+    ],
+    "round3": ["Sahil","Utkarsh"],
+    "round4": [],
+    "time": {
+      "time1": "8:30",
+      "time2": "10:30",
+      "time3": "12:30",
+      "time4": "1:30"
+    },
+    "tee": {
+      "tee1": "|",
+      "tee2": "|",
+      "tee3": "|",
+      "tee4": "|"
+    }
+  },
+  "tournament": "SpinGolf",
+  "rank": 9,
+  "points": 135,
+  "place": "Mohali",
+  "par": {
+    "hole1": 2,
+    "hole2": 3,
+    "hole3": 3,
+    "hole4": 6,
+    "hole5": 1,
+    "hole6": 2,
+    "hole7": 4,
+    "hole8": 1,
+    "hole9": 5,
+    "hole10": 4,
+    "hole11": 2,
+    "hole12": 4,
+    "hole13": 5,
+    "hole14": 1,
+    "hole15": 3,
+    "hole16": 4,
+    "hole17": 4,
+    "hole18": 3
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": 1,
+      "r1_hole2": 2,
+      "r1_hole3": 3,
+      "r1_hole4": 4,
+      "r1_hole5": 1,
+      "r1_hole6": 1,
+      "r1_hole7": 4,
+      "r1_hole8": 2,
+      "r1_hole9": 1,
+      "r1_hole10": 3,
+      "r1_hole11": 1,
+      "r1_hole12": 4,
+      "r1_hole13": 3,
+      "r1_hole14": 2,
+      "r1_hole15": 2,
+      "r1_hole16": 3,
+      "r1_hole17": 2,
+      "r1_hole18": 1
+    },
+    "round2": {
+      "r2_hole1": 1,
+      "r2_hole2": 2,
+      "r2_hole3": 3,
+      "r2_hole4": 4,
+      "r2_hole5": 1,
+      "r2_hole6": 3,
+      "r2_hole7": 4,
+      "r2_hole8": 4,
+      "r2_hole9": 1,
+      "r2_hole10": 3,
+      "r2_hole11": 4,
+      "r2_hole12": 5,
+      "r2_hole13": 1,
+      "r2_hole14": 2,
+      "r2_hole15": 3,
+      "r2_hole16": 4,
+      "r2_hole17": 2,
+      "r2_hole18": 1
+    },
+    "round3": {
+      "r3_hole1": 1,
+      "r3_hole2": 2,
+      "r3_hole3": 5,
+      "r3_hole4": 1,
+      "r3_hole5": 4,
+      "r3_hole6": 2,
+      "r3_hole7": 3,
+      "r3_hole8": 2,
+      "r3_hole9": 1,
+      "r3_hole10": 3,
+      "r3_hole11": 3,
+      "r3_hole12": 1,
+      "r3_hole13": 3,
+      "r3_hole14": 2,
+      "r3_hole15": 4,
+      "r3_hole16": 2,
+      "r3_hole17": 5,
+      "r3_hole18": 3
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "60865696a349a5452c5a1c16"
+  },
+  "createdAt": {
+    "$date": "2021-05-08T09:30:49.601Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T09:30:49.601Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609671caf33c042614307a1a"
+  },
+  "draw": {
+    "round1": [
+      "Sahil",
+      "Vishal Gupta",
+      "Karam Gupta"
+    ],
+    "round2": [
+      "Sahil",
+      "Gaurav Gupta",
+      "Kamal Gupta"
+    ],
+    "round3": [
+      "Sahil",
+      "Karam Gupta",
+      "Utkarsh"
+    ],
+    "round4": [
+      "Sahil",
+      "Karam Gupta"
+    ],
+    "time": {
+      "time1": "8:30",
+      "time2": "10:30",
+      "time3": "12:30",
+      "time4": "2:30"
+    },
+    "tee": {
+      "tee1": "|",
+      "tee2": "|",
+      "tee3": "|",
+      "tee4": "|"
+    }
+  },
+  "tournament": "GolfWeek",
+  "rank": 9,
+  "points": 135,
+  "place": "Mohali",
+  "par": {
+    "hole1": 2,
+    "hole2": 3,
+    "hole3": 3,
+    "hole4": 6,
+    "hole5": 1,
+    "hole6": 2,
+    "hole7": 4,
+    "hole8": 1,
+    "hole9": 5,
+    "hole10": 4,
+    "hole11": 2,
+    "hole12": 4,
+    "hole13": 5,
+    "hole14": 1,
+    "hole15": 3,
+    "hole16": 4,
+    "hole17": 4,
+    "hole18": 3
+  },
+  "score": {
+    "round1": {
+      "r1_hole1": 1,
+      "r1_hole2": 2,
+      "r1_hole3": 3,
+      "r1_hole4": 4,
+      "r1_hole5": 1,
+      "r1_hole6": 1,
+      "r1_hole7": 4,
+      "r1_hole8": 2,
+      "r1_hole9": 1,
+      "r1_hole10": 3,
+      "r1_hole11": 1,
+      "r1_hole12": 4,
+      "r1_hole13": 3,
+      "r1_hole14": 2,
+      "r1_hole15": 2,
+      "r1_hole16": 3,
+      "r1_hole17": 2,
+      "r1_hole18": 1
+    },
+    "round2": {
+      "r2_hole1": 1,
+      "r2_hole2": 2,
+      "r2_hole3": 3,
+      "r2_hole4": 4,
+      "r2_hole5": 1,
+      "r2_hole6": 3,
+      "r2_hole7": 4,
+      "r2_hole8": 4,
+      "r2_hole9": 1,
+      "r2_hole10": 3,
+      "r2_hole11": 4,
+      "r2_hole12": 5,
+      "r2_hole13": 1,
+      "r2_hole14": 2,
+      "r2_hole15": 3,
+      "r2_hole16": 4,
+      "r2_hole17": 2,
+      "r2_hole18": 1
+    },
+    "round3": {
+      "r3_hole1": 1,
+      "r3_hole2": 2,
+      "r3_hole3": 5,
+      "r3_hole4": 1,
+      "r3_hole5": 4,
+      "r3_hole6": 2,
+      "r3_hole7": 3,
+      "r3_hole8": 2,
+      "r3_hole9": 1,
+      "r3_hole10": 3,
+      "r3_hole11": 3,
+      "r3_hole12": 1,
+      "r3_hole13": 3,
+      "r3_hole14": 2,
+      "r3_hole15": 4,
+      "r3_hole16": 2,
+      "r3_hole17": 5,
+      "r3_hole18": 3
+    },
+    "round4": {
+      "r4_hole1": 3,
+      "r4_hole2": 5,
+      "r4_hole3": 1,
+      "r4_hole4": 2,
+      "r4_hole5": 1,
+      "r4_hole6": 2,
+      "r4_hole7": 5,
+      "r4_hole8": 2,
+      "r4_hole9": 4,
+      "r4_hole10": 2,
+      "r4_hole11": 3,
+      "r4_hole12": 2,
+      "r4_hole13": 5,
+      "r4_hole14": 3,
+      "r4_hole15": 1,
+      "r4_hole16": 4,
+      "r4_hole17": 2,
+      "r4_hole18": 3
+    }
+  },
+  "player": {
+    "$oid": "60865696a349a5452c5a1c16"
+  },
+  "createdAt": {
+    "$date": "2021-05-08T11:11:06.673Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T11:11:06.673Z"
+  },
+  "__v": 0
+}]

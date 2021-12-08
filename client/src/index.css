@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --white: #f4f4f4;
+  --light: #eaeaea;
+  --odd-color: #e3e4e6;
+  --accent: #ffc107;
+  --black: #000;
+  /* --dark-blue: #3d416b; */
+  /* --light-blue: #595e9b; */
+  --dark-blue: #343a40;
+  --light-blue: #5c6772;
+  --link-hover: color 0.3s ease;
+}
+
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+/* material ui styles */
+.MuiDrawer-paper {
+  -webkit-overflow-scrolling: touch;
+  background-color: black !important;
+  color: #fff !important;
+}

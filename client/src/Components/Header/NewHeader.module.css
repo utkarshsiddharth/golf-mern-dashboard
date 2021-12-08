@@ -1,0 +1,149 @@
+.header {
+  max-height: 90px;
+  padding: 0.6rem 0;
+  background-color: var(--black);
+  color: var(--white);
+  font-family: 'Raleway', sans-serif;
+  font-size: 21px;
+  line-height: 31px;
+}
+
+/* .container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+} */
+.container {
+  display: flex;
+}
+
+.logo_group {
+  display: flex;
+  align-items: center;
+  margin-right: calc(4rem + 2vw);
+  margin-left: 10rem;
+}
+.logo_group img {
+  margin-right: 0.3rem;
+  max-width: 100%;
+}
+.bogeysportslogo {
+  height: 70px;
+  width: 55px;
+}
+.appstorelogo {
+  height: 35px;
+  width: 120px;
+  box-sizing: initial;
+  border: 1px solid var(--white);
+  border-radius: 2px;
+}
+.playstorelogo {
+  height: 35px;
+  width: 120px;
+}
+
+.main_nav {
+  flex: 1;
+  margin-left: 3rem;
+  font-weight: bold;
+}
+
+.nav_list {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.nav_list li:not(:last-child) {
+  margin-right: 1rem;
+}
+.nav_list li a {
+  text-decoration: none;
+  color: var(--white);
+  transition: var(--link-hover);
+}
+.nav_list li a:hover {
+  color: var(--accent);
+}
+
+/* backdrop */
+.backdrop {
+  scroll-behavior: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 111;
+  background-color: var(--white);
+  height: 100vh;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  font-family: 'Raleway', sans-serif;
+}
+.backdrop_container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  height: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+.backdrop_list {
+  list-style: none;
+  font-size: 38px;
+  line-height: 36px;
+}
+.backdrop_list li:not(:last-child) {
+  margin-bottom: 1rem;
+}
+.backdrop_list li a {
+  color: var(--black);
+  text-decoration: none;
+  transition: var(--link-hover);
+  font-weight: 300;
+}
+.backdrop_list li a:hover {
+  color: var(--accent);
+}
+.cross_icon {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 1200px) {
+  .logo_group {
+    margin-left: 5rem;
+  }
+  .bogeysportslogo {
+    height: 60px;
+    width: 45px;
+  }
+  .appstorelogo {
+    height: 30px;
+    width: 100px;
+  }
+  .playstorelogo {
+    height: 30px;
+    width: 100px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .logo_group {
+    margin-left: 3rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .playstorelogo {
+    display: none;
+  }
+  .appstorelogo {
+    display: none;
+  }
+}

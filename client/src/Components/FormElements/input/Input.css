@@ -1,0 +1,34 @@
+label {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.required-input {
+  position: relative;
+}
+
+.required-input::after {
+  content: '*';
+  font-size: 2rem;
+  color: var(--accent);
+  position: absolute;
+  top: -0.5rem;
+  right: -15px;
+}
+
+input {
+  border: 0.5px solid rgba(0, 0, 0, 0.575);
+
+  padding: 1.6em 2em;
+  outline: none;
+  transition: all 0.3s ease;
+  width: 100%;
+  margin-top: 1rem;
+}
+input:hover,
+input:active {
+  border: 1px solid #333;
+}
+.form-group {
+  margin-bottom: 2rem;
+}

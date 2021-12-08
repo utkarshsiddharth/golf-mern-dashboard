@@ -1,0 +1,19 @@
+.temp-table-container {
+  width: 100%;
+}
+
+.temp-table-container button {
+  margin-bottom: 20px;
+}
+
+.drawsheet-table-image {
+  height: 600px;
+  overflow: scroll;
+  width: 100%;
+}
+
+/* drawsheet table cotnainer */
+.drawsheet-table-container {
+  max-height: 600px;
+  overflow: scroll;
+}
